@@ -738,7 +738,7 @@ img.alignnone {
 .wp-caption .wp-caption-text,
 .entry-caption,
 .gallery-caption {
-	color: #220e10;
+	color: #007FFF;
 	font-size: 18px;
 	font-style: italic;
 	font-weight: 300;
@@ -881,13 +881,13 @@ div.nav-menu > ul {
 .nav-menu li a:hover,
 .nav-menu li:focus > a,
 .nav-menu li a:focus {
-	background-color: #220e10;
+	background-color: #007FFF;
 	color: #fff;
 }
 
 .nav-menu .sub-menu,
 .nav-menu .children {
-	background-color: #220e10;
+	background-color: #007FFF;
 	border: 2px solid #f7f5e7;
 	border-top: 0;
 	padding: 0;
@@ -1225,7 +1225,7 @@ footer.entry-meta {
 /* Mediaelements */
 .hentry .mejs-mediaelement,
 .hentry .mejs-container .mejs-controls {
-	background: #220e10;
+	background: #007FFF;
 }
 
 .hentry .mejs-controls .mejs-time-rail .mejs-time-loaded,
@@ -1733,7 +1733,7 @@ footer.entry-meta {
 }
 
 .format-video .entry-meta {
-	color: #220e10;
+	color: #007FFF;
 }
 
 
@@ -2570,7 +2570,7 @@ footer.entry-meta {
 }
 
 .site-footer .sidebar-container {
-	background-color: #220e10;
+	background-color: #007FFF;
 	padding: 20px 0;
 }
 
@@ -2935,7 +2935,7 @@ footer.entry-meta {
 
 	.toggled-on .nav-menu > li a:focus,
 	.toggled-on .nav-menu > ul a:focus {
-		background-color: #220e10;
+		background-color: #007FFF;
 		color: #fff;
 	}
 
