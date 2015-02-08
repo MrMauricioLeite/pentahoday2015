@@ -780,55 +780,55 @@ margin-top: 17px;
 	margin-left:40px;
 }
 
-#picture1 { background: url(../img/orador01.png) no-repeat; }
+#picture1 { background: url(../img/orador00.png) no-repeat; }
    
-#picture2 { background: url(../img/orador02.png) no-repeat; }  
+#picture2 { background: url(../img/orador00.png) no-repeat; }  
    
 #picture3 { background: url(../img/orador00.png) no-repeat; }
 
-#picture4 { background: url(../img/orador04.png) no-repeat; }
+#picture4 { background: url(../img/orador00.png) no-repeat; }
 
-#picture5 { background: url(../img/orador25.png) no-repeat; }
+#picture5 { background: url(../img/orador00.png) no-repeat; }
 
-#picture6 { background: url(../img/orador06.png) no-repeat; }  
+#picture6 { background: url(../img/orador00.png) no-repeat; }  
 
-#picture7 { background: url(../img/orador26.png) no-repeat; }
+#picture7 { background: url(../img/orador00.png) no-repeat; }
 
-#picture8 { background: url(../img/orador08.png) no-repeat; }
+#picture8 { background: url(../img/orador00.png) no-repeat; }
 
-#picture9 { background: url(../img/orador09.png) no-repeat; } 
+#picture9 { background: url(../img/orador00.png) no-repeat; } 
 
-#picture10 { background: url(../img/orador10.png) no-repeat; }
+#picture10 { background: url(../img/orador00.png) no-repeat; }
 
-#picture11 { background: url(../img/orador11.png) no-repeat; }
+#picture11 { background: url(../img/orador00.png) no-repeat; }
 		
-#picture12 { background: url(../img/orador12.png) no-repeat; }
+#picture12 { background: url(../img/orador00.png) no-repeat; }
 		
-#picture13 { background: url(../img/orador13.png) no-repeat; }
+#picture13 { background: url(../img/orador00.png) no-repeat; }
 		
-#picture14 { background: url(../img/orador14.png) no-repeat; }
+#picture14 { background: url(../img/orador00.png) no-repeat; }
 			
-#picture15 { background: url(../img/orador15.png) no-repeat; }
+#picture15 { background: url(../img/orador00.png) no-repeat; }
 		
-#picture16 { background: url(../img/orador16.png) no-repeat; }
+#picture16 { background: url(../img/orador00.png) no-repeat; }
 
-#picture17 { background: url(../img/orador17.png) no-repeat; }	
+#picture17 { background: url(../img/orador00.png) no-repeat; }	
 		
-#picture18 { background: url(../img/orador18.png) no-repeat; }
+#picture18 { background: url(../img/orador00.png) no-repeat; }
    
-#picture19 { background: url(../img/orador19.png) no-repeat; }
+#picture19 { background: url(../img/orador00.png) no-repeat; }
 
-#picture20 { background: url(../img/orador20.png) no-repeat; }
+#picture20 { background: url(../img/orador00.png) no-repeat; }
    
-#picture21 { background: url(../img/orador21.png) no-repeat; }
+#picture21 { background: url(../img/orador00.png) no-repeat; }
    
-#picture22 { background: url(../img/orador18.png) no-repeat; }
+#picture22 { background: url(../img/orador00.png) no-repeat; }
 
-#picture23{ background:url(../img/orador22.png) no-repeat; }
+#picture23{ background:url(../img/orador00.png) no-repeat; }
 
-#picture24{ background:url(../img/orador23.png) no-repeat; }
+#picture24{ background:url(../img/orador00.png) no-repeat; }
 
-#picture25{ background:url(../img/orador24.png) no-repeat; }
+#picture25{ background:url(../img/orador00.png) no-repeat; }
 
 
 		
@@ -888,6 +888,12 @@ margin-top: 17px;
 }
 
 
+.linkLogoUp{
+	width:60px;
+	margin-right:100px;
+}
+
+
 .linkLogoDWSL{
 	width:50px;
 	margin-right: 90px;
@@ -911,9 +917,14 @@ margin-top: 17px;
 }
 
 .linkLogoAmbiente{
-	width: 90px;
-    margin-top: -6px;
-    margin-left: 15px;
+	width:85px;
+	margin-top: 3px;
+	margin-right: 20px;
+}
+
+.linkLogoGrupo{
+	width:85px;
+	margin-top: 3px;
 	margin-right: 20px;
 }
 
@@ -926,30 +937,26 @@ margin-top: 17px;
 }
 
 
-.linkLogoUsp{
+.linkLogoSucesu{
+/*
 	width:58px;
 	margin-left: 0px;
 	margin-right: 500px;
 	margin-top: -3px;
+*/
 }
 
-.linkLogoIt4biz{
-	width:65px;
-	margin-top: 3px;
-margin-right: 20px;
+.linkLogoAssespro{
+	width:90px;
+	margin-left: 10px;
+	margin-right: 300px;
+	margin-top: -3px;
 }
 
-.linkLogoFea{
-	width:100px;
-	margin-top: 3px;
-    margin-right: 30px;
-    margin-left: 25px;
-}
 
 .linkLogoPentaho{
 	width:92px;
 	margin-top: 3px;
-	
 }
 
 .tabs{
