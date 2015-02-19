@@ -761,17 +761,17 @@ margin-top: 17px;
 #picture10 .autor,
 #picture18 .autor,
 #picture22 .autor {
-	margin-top:25px;
-	margin-left:25px;
-	margin-right:25px;
+	margin-top:10px;
+	margin-left:15px;
+	margin-right:15px;
 }
 		  
 #picture3 .area,
 #picture6 .area,
 #picture10 .area {
-	margin-top:60px;
-	margin-left:60px;
-	margin-right:60px;
+	margin-top:45px;
+	margin-left:45px;
+	margin-right:45px;
 }
 		  
 #picture22 .area,
@@ -780,7 +780,7 @@ margin-top: 17px;
 	margin-left:40px;
 }
 
-#picture1 { background: url(../img/orador00.png) no-repeat; }
+#picture1 { background: url(../img/orador01.png) no-repeat; }
    
 #picture2 { background: url(../img/orador00.png) no-repeat; }  
    
@@ -788,21 +788,21 @@ margin-top: 17px;
 
 #picture4 { background: url(../img/orador00.png) no-repeat; }
 
-#picture5 { background: url(../img/orador00.png) no-repeat; }
+#picture5 { background: url(../img/orador05.png) no-repeat; }
 
-#picture6 { background: url(../img/orador00.png) no-repeat; }  
+#picture6 { background: url(../img/orador06.png) no-repeat; }  
 
-#picture7 { background: url(../img/orador00.png) no-repeat; }
+#picture7 { background: url(../img/orador07.png) no-repeat; }
 
-#picture8 { background: url(../img/orador00.png) no-repeat; }
+#picture8 { background: url(../img/orador08.png) no-repeat; }
 
 #picture9 { background: url(../img/orador00.png) no-repeat; } 
 
 #picture10 { background: url(../img/orador00.png) no-repeat; }
 
-#picture11 { background: url(../img/orador00.png) no-repeat; }
+#picture11 { background: url(../img/orador11.png) no-repeat; }
 		
-#picture12 { background: url(../img/orador00.png) no-repeat; }
+#picture12 { background: url(../img/orador12.png) no-repeat; }
 		
 #picture13 { background: url(../img/orador00.png) no-repeat; }
 		
@@ -818,19 +818,17 @@ margin-top: 17px;
    
 #picture19 { background: url(../img/orador00.png) no-repeat; }
 
-#picture20 { background: url(../img/orador00.png) no-repeat; }
+#picture20 { background: url(../img/orador20.png) no-repeat; }
    
 #picture21 { background: url(../img/orador00.png) no-repeat; }
    
 #picture22 { background: url(../img/orador00.png) no-repeat; }
 
-#picture23{ background:url(../img/orador00.png) no-repeat; }
+#picture23 { background:url(../img/orador00.png) no-repeat; }
 
-#picture24{ background:url(../img/orador00.png) no-repeat; }
+#picture24 { background:url(../img/orador00.png) no-repeat; }
 
-#picture25{ background:url(../img/orador00.png) no-repeat; }
-
-
+#picture25 { background:url(../img/orador00.png) no-repeat; }
 		
 .linkLogo2 {
 	padding-top: 18px;
