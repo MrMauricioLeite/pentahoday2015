@@ -644,6 +644,12 @@ margin-left:115px;
 width: 160px;
 }
 
+.oradores11{
+width: 160px;
+}
+
+
+
 .firstcolumn{
 	margin-top: 17px;
 }
@@ -770,6 +776,14 @@ width: 160px;
 	margin-left:45px;
 	margin-right:45px;
 }
+
+#picture11 .area {
+	margin-top:40px;
+	margin-left:40px;
+	margin-right:45px;
+}
+
+
 		  
 #picture22 .area,
 #picture18 .area {
@@ -795,7 +809,7 @@ width: 160px;
 
 #picture9 { background: url(../img/orador09.png) no-repeat; } 
 
-#picture10 { background: url(../img/orador00.png) no-repeat; }
+#picture10 { background: url(../img/orador10.png) no-repeat; }
 
 #picture11 { background: url(../img/orador11.png) no-repeat; }
 		
