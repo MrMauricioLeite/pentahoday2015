@@ -27,13 +27,18 @@ body, html {
 }
 
 .fullWidth.whiteWrap {
-	background-image: url(../img/header.png);
-	background-size: contain;
+	background-image: url(../img/header_2015.png);
+	background-size: 1250px;
 	background-repeat: no-repeat;
 	background-position: center center;
-	height: 400px;
+	height:400px;
 	background-color:#f6f7f8;
 }
+
+.header {
+	height: 82px;
+}
+
 
 .lightGrey {
 	background: rgb(232, 235, 238);
@@ -59,15 +64,16 @@ h3 {
 	color: #fff;
 	border: none;
 	font-size: 15px;
-	font-weight: 400;
+	font-weight: 300;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	background: url(../img/open_new.png);
-	background-color: #0080cb;
+	background-color: #002054;
 	background-repeat: no-repeat;
-	background-position: right 5px center;
+	background-position: right 15px center;
 	background-size: 26px;
     background-attachment: scroll;
 	padding: 10px;
+	padding-left:20px;
   	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 2px rgba(0, 0, 0, 0.05);
      -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 2px rgba(0, 0, 0, 0.05);
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -77,9 +83,9 @@ h3 {
 .btn.pdf:link,
 .btn.pdf:visited {
 	background: url(../img/pdf_icon.png);
-	background-color: #002776;
+	background-color: #002054;
 	background-repeat: no-repeat;
-	background-position: right 5px center;
+	background-position: right 15px center;
 	background-size: 35px;
     background-attachment: scroll;
 }
@@ -89,9 +95,9 @@ h3 {
 .btn.trans:link,
 .btn.trans:visited {
 	background: url(../img/transmissao.png);
-	background-color: #002776;
+	background-color: #002054;
 	background-repeat: no-repeat;
-	background-position: right 5px center;
+	background-position: right 15px center;
 	background-size: 35px;
     background-attachment: scroll;
 }
@@ -103,9 +109,9 @@ h3 {
 	border-radius: 0px;
 	color: #fff;
 	background: url(../img/transmissao.png);
-	background-color: #0039ad;
+	background-color: #00316b;
 	background-repeat: no-repeat;
-	background-position: right 5px center;
+	background-position: right 15px center;
 	background-size: 35px;
     background-attachment: scroll;
 }
@@ -113,14 +119,14 @@ h3 {
 .btn.register,
 .btn.register:link,
 .btn.register:visited {
-	background-color: #002776;	
+	background-color: #002054;	
 	cursor: pointer;
 }
 
 .btn.register:hover,
 .btn.register:active,
 .btn.register:focus {
-	background-color: #0039ad;	
+	background-color: #00316b;	
 }
 
 
@@ -131,9 +137,9 @@ h3 {
 	border-radius: 0px;
 	color: #fff;
 	background: url(../img/open_new.png);
-	background-color: #1191dc;
+	background-color: #00316b;
 	background-repeat: no-repeat;
-	background-position: right 5px center;
+	background-position: right 15px center;
 	background-size: 26px;
     background-attachment: scroll;
 }
@@ -144,9 +150,9 @@ h3 {
 	border-radius: 0px;
 	color: #fff;
 	background: url(../img/pdf_icon.png);
-	background-color: #0039ad;
+	background-color: #00316b;
 	background-repeat: no-repeat;
-	background-position: right 5px center;
+	background-position: right 15px center;
 	background-size: 35px;
     background-attachment: scroll;
 }
@@ -295,6 +301,7 @@ hr {
 
 .locationBottom {
 	position: relative;
+	margin-top:20px;
 }
 
 .locationBottom .mapaPalacio {
@@ -467,14 +474,18 @@ hr {
 }
 
 #secondRegister {
-	margin-top: 20px;
+	margin-top: 40px;
 }
 
 
 #thirdRegister{
-	margin-top: 70px;
+	margin-top: 20px;
 }
  
+ 
+ #fourthRegister{
+	margin-top: 70px;
+}
  
 #number4 {
 	margin-left: 10px;
@@ -507,7 +518,7 @@ strong {
 /************************INTERVENCAO_JOANA**************************/
 
 .Grey {
-	background: rgb(194, 204, 209);
+	background: #002054;
 	padding: 20px 0px;
 	margin-top:259px;
 }
@@ -515,24 +526,24 @@ strong {
 
 .daysRow {
 	position:absolute;
-	margin-left:850px;
+	margin-left:865px;
 }
 
 .titleSpan {
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 700;
-	line-height: 1.6;
-	margin-top:-37px;
+	line-height: 2.0;
+	margin-top:-40px;
+    color:#e2e6e9;
+
 }
 
 .titleSpan:hover {
 	cursor: default;
 }
 
-.date {
-	margin-top: -22px;
-	width: 109px;
-	
+div.date {
+	margin-top: -15px;
 }
 
 
@@ -586,7 +597,7 @@ text-align: center;
 margin-top: -45px;
 margin-left: 345px;
 font-size: 20px;
-color: #002776;
+color: #003787;
 font-weight:600;
 }
 
@@ -598,6 +609,7 @@ font-weight:600;
 
 .orador{
 	font-size:25px;
+	line-height:27px;
 }
 
 .programatitle {
@@ -836,7 +848,7 @@ width: 160px;
 			
 #picture15 { background: url(../img/orador15.png) no-repeat; }
 		
-#picture16 { background: url(../img/orador00.png) no-repeat; }
+#picture16 { background: url(../img/orador16.png) no-repeat; }
 
 #picture17 { background: url(../img/orador00.png) no-repeat; }	
 		
@@ -862,13 +874,13 @@ width: 160px;
 
 .designBuilt {
 	font-size: 10px;
-	line-height: 10px;
+    height: 25px;
 	width:167px;
 }
 
 .apoio {
 	font-size: 10px;
-	line-height: 10px;
+	height: 25px;
 	width: 65px;
     margin-right: 500px;
 }
@@ -905,13 +917,13 @@ width: 160px;
 }
 
 .linkLogoSinn{
-	width:60px;
+	width:64px;
 	margin-right:0px;
+	padding-left: 20px;
 }
 
 .linkLogoUp{
-	width:60px;
-	margin-right:100px;
+	width:150px;
 }
 
 
@@ -927,27 +939,24 @@ width: 160px;
 }
 
 .linkLogoOn{
-	width: 70px;
-    	margin-top: 2px;
-	margin-right: 10px;
+	width: 86px;
 }
 
 .linkLogoOpen{
-	width:80px;
+	width:88px;
 	margin-right: 20px;
-	margin-left: 340px;
+	margin-left: 315px;
 }
 
 .linkLogoAmbiente{
-	width:85px;
-	margin-top: 3px;
-	margin-right: 20px;
+	width:95px;
+	margin-right: 35px;
 }
 
 .linkLogoGrupo{
-	width:85px;
-	margin-top: 3px;
-	margin-right: 20px;
+	width:68px;
+	margin-top: -10px;
+	margin-right: 35px;
 }
 
 
@@ -960,13 +969,14 @@ width: 160px;
 
 
 .linkLogoSucesu{
+		margin-left: -8px;
+
 }
 
 .linkLogoAssespro{
-	width:90px;
+	width:95px;
 	margin-left: 10px;
 	margin-right: 300px;
-	margin-top: -3px;
 }
 
 
@@ -978,7 +988,7 @@ width: 160px;
 .tabs{
 	list-style: none;
 	padding:0;
-	font-size:18px;
+	font-size:17px;
 	color:#444;
 	font-weight:700;
 }
@@ -986,30 +996,33 @@ width: 160px;
 
 .tabs li {
 	display: inline;
-	margin: 0 2.5em 0 0;
+	margin: 0 4.5em 0 0;
 	color:#444;
 }
 
 #selected {
   display: inline;
-  border: solid #fedf00;
+  border: solid #ced30b;
   border-width: 0px 0px 10px 0px;
-  margin: 0 2.5em 0 0;
+  margin: 0 4.5em 0 0;
   padding-bottom: 18px;
+  text-decoration:none;
 }
 
 a.programa {
 	/*color:#80959e;*/
-		color:#444;
+		color:#e2e6e9;
+		text-decoration:none;
 }
 
 a.programa:hover {
-	color:#444;
+	color:#fff;
 	display: inline;
-    border: solid #fedf00;
+    border: solid #ced30b;
     border-width: 0px 0px 10px 0px;
     padding-bottom: 18px;
 	text-decoration:none;
+	
 }
 
 .auditorio{
@@ -1042,6 +1055,12 @@ a.programa:hover {
 .offset42
 {
 	margin-top: 30px;
+}
+
+
+.offset43
+{
+	margin-top: -50px;
 }
 
 
