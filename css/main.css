@@ -648,8 +648,8 @@ margin-left:0px;
 .oradores4{
 margin-top: 75px;
 padding-bottom: 50px;
-width: 770px;
-margin-left:115px;
+width: 1090px;
+margin-left:-65px;
 }
 
 .oradores5{
@@ -882,7 +882,12 @@ width: 160px;
 
 #picture26 { background:url(../img/orador26.png) no-repeat; }
 
+#picture27 { background:url(../img/orador27.png) no-repeat; }
 		
+#picture28 { background:url(../img/orador28.png) no-repeat; }
+
+#picture29 { background:url(../img/orador29.png) no-repeat; }
+
 .linkLogo2 {
 	padding-top: 18px;
 }
