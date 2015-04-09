@@ -661,9 +661,9 @@ margin-left: 25px;
 
 .oradores6{
 position: absolute;
-margin-top: 100px;
-width: 770px;
-margin-left: 90px;
+margin-top: 96px;
+width: 916px;
+margin-left: -89px;
 }
 
 .oradores7{
@@ -834,9 +834,9 @@ width: 160px;
    
 #picture2 { background: url(../img/orador02.png) no-repeat; }  
    
-#picture3 { background: url(../img/orador00.png) no-repeat; }
+#picture3 { background: url(../img/orador03.png) no-repeat; }
 
-#picture4 { background: url(../img/orador00.png) no-repeat; }
+#picture4 { background: url(../img/orador04.png) no-repeat; }
 
 #picture5 { background: url(../img/orador05.png) no-repeat; }
 
@@ -887,6 +887,8 @@ width: 160px;
 #picture28 { background:url(../img/orador28.png) no-repeat; }
 
 #picture29 { background:url(../img/orador29.png) no-repeat; }
+
+#picture30 { background:url(../img/orador30.png) no-repeat; }
 
 .linkLogo2 {
 	padding-top: 18px;
