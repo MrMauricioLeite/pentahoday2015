@@ -918,7 +918,7 @@ width: 160px;
 	font-size: 10px;
 	line-height: 10px;
 	width: 65px;
-    margin-right: 0px;
+        margin-right: 0px;
 }
 
 .silver {
@@ -939,19 +939,13 @@ width: 160px;
 }
 
 .linkLogoSinn{
-	width:64px;
+	width:70px;
 	margin-right:0px;
 	padding-left: 20px;
 }
 
 .linkLogoUp{
 	width:150px;
-}
-
-
-.linkLogoDWSL{
-	width:50px;
-	margin-right: 90px;
 }
 
 .linkLogoInter{
@@ -964,11 +958,24 @@ width: 160px;
 	width: 86px;
 }
 
+.linkLogoSpot{
+	width: 70px;
+}
+
 .linkLogoOpen{
 	width:88px;
-	margin-right: 20px;
-	margin-left: 315px;
+	margin-left: 140px;
 }
+
+.linkLogoIt4biz{
+	width:88px;
+}
+
+.linkLogoDelphos{
+	width:88px;
+	margin-top: 16px;
+}
+
 
 .linkLogoAmbiente{
 	width:95px;
@@ -979,14 +986,6 @@ width: 160px;
 	width:68px;
 	margin-top: -10px;
 	margin-right: 35px;
-}
-
-
-.linkLogoKnow{
-	width: 68px;
-	margin-top: 8px;
-    margin-left: 18px;
-	margin-right: 20px;
 }
 
 
