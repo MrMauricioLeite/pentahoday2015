@@ -129,8 +129,6 @@ h3 {
 	background-color: #00316b;	
 }
 
-
-
 .btn:hover,
 .btn:active,
 .btn:focus {
@@ -673,6 +671,13 @@ width: 916px;
 margin-left: 1px;
 }
 
+.oradores8{
+margin-top: 290px;
+width: 813px;
+margin-left:90px;
+}
+
+
 .oradores{
 width: 160px;
 }
@@ -889,6 +894,14 @@ width: 160px;
 #picture29 { background:url(../img/orador29.png) no-repeat; }
 
 #picture30 { background:url(../img/orador30.png) no-repeat; }
+
+#picture31 { background:url(../img/orador31.png) no-repeat; }
+
+#picture32 { background:url(../img/orador32.png) no-repeat; }
+
+#picture33 { background:url(../img/orador33.png) no-repeat; }
+
+
 
 .linkLogo2 {
 	padding-top: 18px;
