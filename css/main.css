@@ -929,8 +929,8 @@ width: 160px;
 
 .designBuilt {
 	font-size: 10px;
-    height: 25px;
-	width:167px;
+        height: 25px;
+	width:150px;
 }
 
 .apoio {
@@ -944,21 +944,28 @@ width: 160px;
 	font-size: 10px;
 	line-height: 10px;
 	width: 65px;
-    margin-left: 12px;
+        margin-left: -20px;
 }
 
 .bronze {
 	font-size: 10px;
 	line-height: 10px;
 	width: 65px;
-        margin-right: 0px;
+        margin-right: 30px;
 }
 
-.silver {
+.prata {
+	font-size: 10px;
+	line-height: 10px;
+	width: 48px;
+        margin-right: 130px;
+}
+
+.ouro {
 	font-size: 10px;
 	line-height: 10px;
 	width: 65px;
-    margin-right: 317px;
+        margin-right: 250px;
 }
 
 .linkLogoI{
@@ -973,8 +980,8 @@ width: 160px;
 
 .linkLogoSinn{
 	width:70px;
-	margin-right:0px;
-	padding-left: 20px;
+	margin-right:-10px;
+	padding-left: 2px;
 }
 
 .linkLogoUp{
@@ -988,24 +995,26 @@ width: 160px;
 }
 
 .linkLogoOn{
-	width: 86px;
+	margin-top: 14px;
+	width: 95px;
 }
 
 .linkLogoSpot{
 	width: 70px;
+	margin-right: 48px;
 }
 
 .linkLogoOpen{
 	width:88px;
-	margin-left: 140px;
+	margin-left: 110px;
 }
 
 .linkLogoIt4biz{
-	width:88px;
+	width:85px;
 }
 
 .linkLogoDelphos{
-	width:88px;
+	width:80px;
 	margin-top: 16px;
 }
 
